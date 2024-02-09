@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Science, Learning DS/ML/AI from both application and development perspective
 - 💞️ I’m looking to collaborate on building new algorithms, Solving math problems, identifying real-time problems and bridging them with solutions
 - 📫 How to reach me ... @Dishank Karampudi on Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 DISHANKKARAMPUDI/DISHANKKARAMPUDI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
