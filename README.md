@@ -5,7 +5,7 @@
 # 👋 Hi, I’m Dishank Karampudi  
 
 ### 🚀 About Me  
-I am a **Data Science professional with 3 years of experience**, having worked across **fintech, healthcare, real estate, and consulting**. I specialize in **machine learning, data analytics, business intelligence, and cloud computing**, leveraging data-driven insights to solve complex business challenges.  
+I am a **Data Science professional with 1.5 years of experience**, having worked across **fintech, healthcare, development, and consulting**. I specialize in **machine learning, data analytics, business intelligence, and cloud computing**, leveraging data-driven insights to solve complex business challenges.  
 
 At **TresVista**, I automated financial data processes and built **interactive dashboards** for **data-driven financial analysis**. At **ZS Associates**, I applied **predictive modeling and machine learning** to optimize **drug sales forecasting and business strategies**.  
 
