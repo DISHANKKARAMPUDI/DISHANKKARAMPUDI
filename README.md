@@ -5,11 +5,7 @@
 # 👋 Hi, I’m Dishank Karampudi  
 
 ### 🚀 About Me  
-I am a **Data Science professional with 1.5 years of experience**, having worked across **fintech, healthcare, development, and consulting**. I specialize in **machine learning, data analytics, business intelligence, and cloud computing**, leveraging data-driven insights to solve complex business challenges.  
-
-At **TresVista**, I automated financial data processes and built **interactive dashboards** for **data-driven financial analysis**. At **ZS Associates**, I applied **predictive modeling and machine learning** to optimize **drug sales forecasting and business strategies**.  
-
-Currently, I am pursuing my **Master’s in Data Science at SUNY Buffalo (CGPA: 4.0/4.0)**, building on my **Bachelor’s in Computer Science from VIT**. Passionate about **leveraging AI and analytics**, I thrive on solving real-world business problems.  
+I am a Computer Science graduate and Master’s in Data Science from SUNY Buffalo (May 2025) with 1.5 years’ hands-on experience at ZS Associates, TresVista, and as a Research Assistant in fintech, healthcare, and consulting. Proficient in Java, Python, and C++, I leverage advanced algorithms, data structures, and optimizations in distributed multi-tiered systems and relational databases. I’ve built large-scale ML pipelines for churn prediction and fraud detection with Spark, XGBoost, and MLflow; recommender engines using Flask and KNN; metro network analysis tools through graph theory; Android fitness apps in Kotlin and Firebase; and full-stack web applications in Python, React, and SQL for scalable, robust, user-centric solutions.
 
 ---
 
