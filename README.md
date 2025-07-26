@@ -5,7 +5,7 @@
 # 👋 Hi, I’m Dishank Karampudi  
 
 ### 🚀 About Me  
-I am a Computer Science graduate and Master’s in Data Science from SUNY Buffalo (May 2025) with 1.5 years’ hands-on experience at ZS Associates, TresVista, and as a Research Assistant in fintech, healthcare, and consulting. Proficient in Java, Python, and C++, I leverage advanced algorithms, data structures, and optimizations in distributed multi-tiered systems and relational databases. I’ve built large-scale ML pipelines for churn prediction and fraud detection with Spark, XGBoost, and MLflow; recommender engines using Flask and KNN; metro network analysis tools through graph theory; Android fitness apps in Kotlin and Firebase; and full-stack web applications in Python, React, and SQL for scalable, robust, user-centric solutions.
+I am a Computer Science graduate and Master’s in Data Science from SUNY Buffalo (May 2025) with 2 years’ hands-on experience at ZS Associates, TresVista, and as a Research Assistant in fintech, healthcare, and consulting. Proficient in Java, Python, and C++, I leverage advanced algorithms, data structures, and optimizations in distributed multi-tiered systems and relational databases. I’ve built large-scale ML pipelines for churn prediction and fraud detection with Spark, XGBoost, and MLflow; recommender engines using Flask and KNN; metro network analysis tools through graph theory; Android fitness apps in Kotlin and Firebase; and full-stack web applications in Python, React, and SQL for scalable, robust, user-centric solutions.
 
 ---
 
